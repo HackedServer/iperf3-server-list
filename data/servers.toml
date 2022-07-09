@@ -1,0 +1,287 @@
+[[servers]]
+hostname = "aix-marseille.testdebit.info"
+
+[servers.ports]
+start = 9200
+end = 9240
+[[servers]]
+hostname = "ams.speedtest.clouvider.net"
+
+[servers.ports]
+start = 5200
+end = 5209
+[[servers]]
+hostname = "appliwave.testdebit.info"
+
+[servers.ports]
+start = 9200
+end = 9240
+[[servers]]
+hostname = "ash.speedtest.clouvider.net"
+
+[servers.ports]
+start = 5200
+end = 5209
+[[servers]]
+hostname = "atl.speedtest.clouvider.net"
+
+[servers.ports]
+start = 5200
+end = 5209
+[[servers]]
+hostname = "bhs.proof.ovh.net"
+
+[servers.ports]
+start = 5201
+end = 5210
+[[servers]]
+hostname = "bordeaux.testdebit.info"
+
+[servers.ports]
+start = 9200
+end = 9240
+[[servers]]
+hostname = "bouygues.testdebit.info"
+
+[servers.ports]
+start = 9200
+end = 9240
+[[servers]]
+hostname = "dal.speedtest.clouvider.net"
+
+[servers.ports]
+start = 5200
+end = 5209
+[[servers]]
+hostname = "ffm-01-ovpn.vpn.eseven.net"
+
+[servers.ports]
+start = 9210
+end = 9210
+[[servers]]
+hostname = "fra.speedtest.clouvider.net"
+
+[[servers]]
+hostname = "gra.proof.ovh.net"
+
+[servers.ports]
+start = 5201
+end = 5210
+[[servers]]
+hostname = "hil.proof.ovh.net"
+
+[servers.ports]
+start = 5201
+end = 5210
+[[servers]]
+hostname = "ikoula.testdebit.info"
+
+[servers.ports]
+start = 9200
+end = 9240
+[[servers]]
+hostname = "iperf.as42831.net"
+
+[servers.ports]
+start = 5300
+end = 5400
+[[servers]]
+hostname = "iperf.biznetnetworks.com"
+
+[servers.ports]
+start = 5201
+end = 5203
+[[servers]]
+hostname = "iperf.deic.dk"
+
+[[servers]]
+hostname = "iperf.online.net"
+
+[[servers]]
+hostname = "iperf.par2.as49434.net"
+
+[servers.ports]
+start = 9210
+end = 9210
+[[servers]]
+hostname = "iperf.quickline.ch"
+
+[[servers]]
+hostname = "iperf.worldstream.nl"
+
+[[servers]]
+hostname = "iperf3.privatelayer.com"
+
+[servers.ports]
+start = 5201
+end = 5201
+[[servers]]
+hostname = "k-net.testdebit.info"
+
+[servers.ports]
+start = 9200
+end = 9240
+[[servers]]
+hostname = "la.speedtest.clouvider.net"
+
+[servers.ports]
+start = 5200
+end = 5209
+[[servers]]
+hostname = "lg.ip-projects.de"
+
+[[servers]]
+hostname = "lg.terrahost.com"
+
+[servers.ports]
+start = 9200
+end = 9200
+[[servers]]
+hostname = "lg.vie.alwyzon.net"
+
+[[servers]]
+hostname = "lille.testdebit.info"
+
+[servers.ports]
+start = 9200
+end = 9240
+[[servers]]
+hostname = "lon.speedtest.clouvider.net"
+
+[servers.ports]
+start = 5200
+end = 5209
+[[servers]]
+hostname = "lyon.testdebit.info"
+
+[servers.ports]
+start = 9200
+end = 9240
+[[servers]]
+hostname = "mediactive-network.net"
+protocols = [ "tcp",]
+
+[servers.ports]
+start = 80
+end = 80
+[[servers]]
+hostname = "montreal.planethoster.testdebit.info"
+
+[servers.ports]
+start = 9200
+end = 9240
+[[servers]]
+hostname = "nyc.speedtest.clouvider.net"
+
+[servers.ports]
+start = 5200
+end = 5209
+[[servers]]
+hostname = "paris.planethoster.testdebit.info"
+
+[servers.ports]
+start = 9200
+end = 9240
+[[servers]]
+hostname = "paris.testdebit.info"
+
+[servers.ports]
+start = 9200
+end = 9240
+[[servers]]
+hostname = "ping-ams1.online.net"
+
+[servers.ports]
+start = 5200
+end = 5209
+[[servers]]
+hostname = "ping.online.net"
+
+[servers.ports]
+start = 5200
+end = 5209
+[[servers]]
+hostname = "rbx.proof.ovh.net"
+
+[servers.ports]
+start = 5201
+end = 5210
+[[servers]]
+hostname = "sbg.proof.ovh.net"
+
+[servers.ports]
+start = 5201
+end = 5210
+[[servers]]
+hostname = "scaleway.testdebit.info"
+
+[servers.ports]
+start = 9200
+end = 9240
+[[servers]]
+hostname = "speedtest-nl-oum.hybula.net"
+
+[[servers]]
+hostname = "speedtest.ftp.otenet.gr"
+protocols = [ "tcp",]
+
+[servers.ports]
+start = 80
+end = 80
+[[servers]]
+hostname = "speedtest.iveloz.net.br"
+
+[servers.ports]
+start = 5201
+end = 5209
+[[servers]]
+hostname = "speedtest.lu.buyvm.net"
+
+[[servers]]
+hostname = "speedtest.lv.buyvm.net"
+
+[[servers]]
+hostname = "speedtest.novoserve.com"
+
+[[servers]]
+hostname = "speedtest.serverius.net"
+
+[servers.ports]
+start = 5002
+end = 5002
+[[servers]]
+hostname = "speedtest.shinternet.ch"
+
+[servers.ports]
+start = 5204
+end = 5204
+[[servers]]
+hostname = "speedtest.wtnet.de"
+
+[servers.ports]
+start = 5200
+end = 5209
+[[servers]]
+hostname = "speedtest.yisp.nl"
+
+[[servers]]
+hostname = "test-debit.free.fr"
+protocols = [ "tcp",]
+
+[servers.ports]
+start = 80
+end = 80
+[[servers]]
+hostname = "vin.proof.ovh.net"
+
+[servers.ports]
+start = 5201
+end = 5210
+[[servers]]
+hostname = "working-domain.com"
+ip_versions = [ "v6", "v4",]
+protocols = [ "tcp", "tcp",]
+
+[servers.ports]
+start = 6000
+end = 6666

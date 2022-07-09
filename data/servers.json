@@ -1,0 +1,344 @@
+{
+  "servers": [
+    {
+      "hostname": "aix-marseille.testdebit.info",
+      "ports": {
+        "start": 9200,
+        "end": 9240
+      }
+    },
+    {
+      "hostname": "ams.speedtest.clouvider.net",
+      "ports": {
+        "start": 5200,
+        "end": 5209
+      }
+    },
+    {
+      "hostname": "appliwave.testdebit.info",
+      "ports": {
+        "start": 9200,
+        "end": 9240
+      }
+    },
+    {
+      "hostname": "ash.speedtest.clouvider.net",
+      "ports": {
+        "start": 5200,
+        "end": 5209
+      }
+    },
+    {
+      "hostname": "atl.speedtest.clouvider.net",
+      "ports": {
+        "start": 5200,
+        "end": 5209
+      }
+    },
+    {
+      "hostname": "bhs.proof.ovh.net",
+      "ports": {
+        "start": 5201,
+        "end": 5210
+      }
+    },
+    {
+      "hostname": "bordeaux.testdebit.info",
+      "ports": {
+        "start": 9200,
+        "end": 9240
+      }
+    },
+    {
+      "hostname": "bouygues.testdebit.info",
+      "ports": {
+        "start": 9200,
+        "end": 9240
+      }
+    },
+    {
+      "hostname": "dal.speedtest.clouvider.net",
+      "ports": {
+        "start": 5200,
+        "end": 5209
+      }
+    },
+    {
+      "hostname": "ffm-01-ovpn.vpn.eseven.net",
+      "ports": {
+        "start": 9210,
+        "end": 9210
+      }
+    },
+    {
+      "hostname": "fra.speedtest.clouvider.net"
+    },
+    {
+      "hostname": "gra.proof.ovh.net",
+      "ports": {
+        "start": 5201,
+        "end": 5210
+      }
+    },
+    {
+      "hostname": "hil.proof.ovh.net",
+      "ports": {
+        "start": 5201,
+        "end": 5210
+      }
+    },
+    {
+      "hostname": "ikoula.testdebit.info",
+      "ports": {
+        "start": 9200,
+        "end": 9240
+      }
+    },
+    {
+      "hostname": "iperf.as42831.net",
+      "ports": {
+        "start": 5300,
+        "end": 5400
+      }
+    },
+    {
+      "hostname": "iperf.biznetnetworks.com",
+      "ports": {
+        "start": 5201,
+        "end": 5203
+      }
+    },
+    {
+      "hostname": "iperf.deic.dk"
+    },
+    {
+      "hostname": "iperf.online.net"
+    },
+    {
+      "hostname": "iperf.par2.as49434.net",
+      "ports": {
+        "start": 9210,
+        "end": 9210
+      }
+    },
+    {
+      "hostname": "iperf.quickline.ch"
+    },
+    {
+      "hostname": "iperf.worldstream.nl"
+    },
+    {
+      "hostname": "iperf3.privatelayer.com",
+      "ports": {
+        "start": 5201,
+        "end": 5201
+      }
+    },
+    {
+      "hostname": "k-net.testdebit.info",
+      "ports": {
+        "start": 9200,
+        "end": 9240
+      }
+    },
+    {
+      "hostname": "la.speedtest.clouvider.net",
+      "ports": {
+        "start": 5200,
+        "end": 5209
+      }
+    },
+    {
+      "hostname": "lg.ip-projects.de"
+    },
+    {
+      "hostname": "lg.terrahost.com",
+      "ports": {
+        "start": 9200,
+        "end": 9200
+      }
+    },
+    {
+      "hostname": "lg.vie.alwyzon.net"
+    },
+    {
+      "hostname": "lille.testdebit.info",
+      "ports": {
+        "start": 9200,
+        "end": 9240
+      }
+    },
+    {
+      "hostname": "lon.speedtest.clouvider.net",
+      "ports": {
+        "start": 5200,
+        "end": 5209
+      }
+    },
+    {
+      "hostname": "lyon.testdebit.info",
+      "ports": {
+        "start": 9200,
+        "end": 9240
+      }
+    },
+    {
+      "hostname": "mediactive-network.net",
+      "ports": {
+        "start": 80,
+        "end": 80
+      },
+      "protocols": [
+        "tcp"
+      ]
+    },
+    {
+      "hostname": "montreal.planethoster.testdebit.info",
+      "ports": {
+        "start": 9200,
+        "end": 9240
+      }
+    },
+    {
+      "hostname": "nyc.speedtest.clouvider.net",
+      "ports": {
+        "start": 5200,
+        "end": 5209
+      }
+    },
+    {
+      "hostname": "paris.planethoster.testdebit.info",
+      "ports": {
+        "start": 9200,
+        "end": 9240
+      }
+    },
+    {
+      "hostname": "paris.testdebit.info",
+      "ports": {
+        "start": 9200,
+        "end": 9240
+      }
+    },
+    {
+      "hostname": "ping-ams1.online.net",
+      "ports": {
+        "start": 5200,
+        "end": 5209
+      }
+    },
+    {
+      "hostname": "ping.online.net",
+      "ports": {
+        "start": 5200,
+        "end": 5209
+      }
+    },
+    {
+      "hostname": "rbx.proof.ovh.net",
+      "ports": {
+        "start": 5201,
+        "end": 5210
+      }
+    },
+    {
+      "hostname": "sbg.proof.ovh.net",
+      "ports": {
+        "start": 5201,
+        "end": 5210
+      }
+    },
+    {
+      "hostname": "scaleway.testdebit.info",
+      "ports": {
+        "start": 9200,
+        "end": 9240
+      }
+    },
+    {
+      "hostname": "speedtest-nl-oum.hybula.net"
+    },
+    {
+      "hostname": "speedtest.ftp.otenet.gr",
+      "ports": {
+        "start": 80,
+        "end": 80
+      },
+      "protocols": [
+        "tcp"
+      ]
+    },
+    {
+      "hostname": "speedtest.iveloz.net.br",
+      "ports": {
+        "start": 5201,
+        "end": 5209
+      }
+    },
+    {
+      "hostname": "speedtest.lu.buyvm.net"
+    },
+    {
+      "hostname": "speedtest.lv.buyvm.net"
+    },
+    {
+      "hostname": "speedtest.novoserve.com"
+    },
+    {
+      "hostname": "speedtest.serverius.net",
+      "ports": {
+        "start": 5002,
+        "end": 5002
+      }
+    },
+    {
+      "hostname": "speedtest.shinternet.ch",
+      "ports": {
+        "start": 5204,
+        "end": 5204
+      }
+    },
+    {
+      "hostname": "speedtest.wtnet.de",
+      "ports": {
+        "start": 5200,
+        "end": 5209
+      }
+    },
+    {
+      "hostname": "speedtest.yisp.nl"
+    },
+    {
+      "hostname": "test-debit.free.fr",
+      "ports": {
+        "start": 80,
+        "end": 80
+      },
+      "protocols": [
+        "tcp"
+      ]
+    },
+    {
+      "hostname": "vin.proof.ovh.net",
+      "ports": {
+        "start": 5201,
+        "end": 5210
+      }
+    },
+    {
+      "hostname": "working-domain.com",
+      "ports": {
+        "start": 6000,
+        "end": 6666
+      },
+      "ip_versions": [
+        "v6",
+        "v4"
+      ],
+      "protocols": [
+        "tcp",
+        "tcp"
+      ]
+    }
+  ]
+}

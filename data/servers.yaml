@@ -1,0 +1,189 @@
+servers:
+- hostname: aix-marseille.testdebit.info
+  ports:
+    end: 9240
+    start: 9200
+- hostname: ams.speedtest.clouvider.net
+  ports:
+    end: 5209
+    start: 5200
+- hostname: appliwave.testdebit.info
+  ports:
+    end: 9240
+    start: 9200
+- hostname: ash.speedtest.clouvider.net
+  ports:
+    end: 5209
+    start: 5200
+- hostname: atl.speedtest.clouvider.net
+  ports:
+    end: 5209
+    start: 5200
+- hostname: bhs.proof.ovh.net
+  ports:
+    end: 5210
+    start: 5201
+- hostname: bordeaux.testdebit.info
+  ports:
+    end: 9240
+    start: 9200
+- hostname: bouygues.testdebit.info
+  ports:
+    end: 9240
+    start: 9200
+- hostname: dal.speedtest.clouvider.net
+  ports:
+    end: 5209
+    start: 5200
+- hostname: ffm-01-ovpn.vpn.eseven.net
+  ports:
+    end: 9210
+    start: 9210
+- hostname: fra.speedtest.clouvider.net
+- hostname: gra.proof.ovh.net
+  ports:
+    end: 5210
+    start: 5201
+- hostname: hil.proof.ovh.net
+  ports:
+    end: 5210
+    start: 5201
+- hostname: ikoula.testdebit.info
+  ports:
+    end: 9240
+    start: 9200
+- hostname: iperf.as42831.net
+  ports:
+    end: 5400
+    start: 5300
+- hostname: iperf.biznetnetworks.com
+  ports:
+    end: 5203
+    start: 5201
+- hostname: iperf.deic.dk
+- hostname: iperf.online.net
+- hostname: iperf.par2.as49434.net
+  ports:
+    end: 9210
+    start: 9210
+- hostname: iperf.quickline.ch
+- hostname: iperf.worldstream.nl
+- hostname: iperf3.privatelayer.com
+  ports:
+    end: 5201
+    start: 5201
+- hostname: k-net.testdebit.info
+  ports:
+    end: 9240
+    start: 9200
+- hostname: la.speedtest.clouvider.net
+  ports:
+    end: 5209
+    start: 5200
+- hostname: lg.ip-projects.de
+- hostname: lg.terrahost.com
+  ports:
+    end: 9200
+    start: 9200
+- hostname: lg.vie.alwyzon.net
+- hostname: lille.testdebit.info
+  ports:
+    end: 9240
+    start: 9200
+- hostname: lon.speedtest.clouvider.net
+  ports:
+    end: 5209
+    start: 5200
+- hostname: lyon.testdebit.info
+  ports:
+    end: 9240
+    start: 9200
+- hostname: mediactive-network.net
+  ports:
+    end: 80
+    start: 80
+  protocols:
+  - tcp
+- hostname: montreal.planethoster.testdebit.info
+  ports:
+    end: 9240
+    start: 9200
+- hostname: nyc.speedtest.clouvider.net
+  ports:
+    end: 5209
+    start: 5200
+- hostname: paris.planethoster.testdebit.info
+  ports:
+    end: 9240
+    start: 9200
+- hostname: paris.testdebit.info
+  ports:
+    end: 9240
+    start: 9200
+- hostname: ping-ams1.online.net
+  ports:
+    end: 5209
+    start: 5200
+- hostname: ping.online.net
+  ports:
+    end: 5209
+    start: 5200
+- hostname: rbx.proof.ovh.net
+  ports:
+    end: 5210
+    start: 5201
+- hostname: sbg.proof.ovh.net
+  ports:
+    end: 5210
+    start: 5201
+- hostname: scaleway.testdebit.info
+  ports:
+    end: 9240
+    start: 9200
+- hostname: speedtest-nl-oum.hybula.net
+- hostname: speedtest.ftp.otenet.gr
+  ports:
+    end: 80
+    start: 80
+  protocols:
+  - tcp
+- hostname: speedtest.iveloz.net.br
+  ports:
+    end: 5209
+    start: 5201
+- hostname: speedtest.lu.buyvm.net
+- hostname: speedtest.lv.buyvm.net
+- hostname: speedtest.novoserve.com
+- hostname: speedtest.serverius.net
+  ports:
+    end: 5002
+    start: 5002
+- hostname: speedtest.shinternet.ch
+  ports:
+    end: 5204
+    start: 5204
+- hostname: speedtest.wtnet.de
+  ports:
+    end: 5209
+    start: 5200
+- hostname: speedtest.yisp.nl
+- hostname: test-debit.free.fr
+  ports:
+    end: 80
+    start: 80
+  protocols:
+  - tcp
+- hostname: vin.proof.ovh.net
+  ports:
+    end: 5210
+    start: 5201
+- hostname: working-domain.com
+  ip_versions:
+  - v6
+  - v4
+  ports:
+    end: 6666
+    start: 6000
+  protocols:
+  - tcp
+  - tcp

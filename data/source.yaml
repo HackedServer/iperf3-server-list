@@ -1,0 +1,201 @@
+---
+servers:
+  - hostname: defaults.example
+    ports:
+      start: 5201
+      end: 5201
+    protocols:
+      - tcp
+      - udp
+    ip_versions:
+      - v4
+      - v6
+    reverse: True
+  - hostname: lg.vie.alwyzon.net
+  - hostname: iperf3.privatelayer.com
+    ports:
+      start: 5201
+      end: 5201
+  - hostname: iperf.quickline.ch
+  - hostname: speedtest.shinternet.ch
+    ports:
+      start: 5204
+      end: 5204
+  - hostname: speedtest.wtnet.de
+    ports:
+      start: 5200
+      end: 5209
+  - hostname: fra.speedtest.clouvider.net
+  - hostname: lg.ip-projects.de
+  - hostname: ffm-01-ovpn.vpn.eseven.net
+    ports:
+      start: 9210
+      end: 9210
+  - hostname: iperf.deic.dk
+  - hostname: iperf.par2.as49434.net
+    ports:
+      start: 9210
+      end: 9210
+  - hostname: iperf.online.net
+  - hostname: paris.testdebit.info
+    ports:
+      start: 9200
+      end: 9240
+  - hostname: lille.testdebit.info
+    ports:
+      start: 9200
+      end: 9240
+  - hostname: lyon.testdebit.info
+    ports:
+      start: 9200
+      end: 9240
+  - hostname: aix-marseille.testdebit.info
+    ports:
+      start: 9200
+      end: 9240
+  - hostname: bordeaux.testdebit.info
+    ports:
+      start: 9200
+      end: 9240
+  - hostname: appliwave.testdebit.info
+    ports:
+      start: 9200
+      end: 9240
+  - hostname: bouygues.testdebit.info
+    ports:
+      start: 9200
+      end: 9240
+  - hostname: scaleway.testdebit.info
+    ports:
+      start: 9200
+      end: 9240
+  - hostname: k-net.testdebit.info
+    ports:
+      start: 9200
+      end: 9240
+  - hostname: ikoula.testdebit.info
+    ports:
+      start: 9200
+      end: 9240
+  - hostname: test-debit.free.fr
+    ports:
+      start: 80
+      end: 80
+    protocols:
+      - tcp
+  - hostname: paris.planethoster.testdebit.info
+    ports:
+      start: 9200
+      end: 9240
+  - hostname: montreal.planethoster.testdebit.info
+    ports:
+      start: 9200
+      end: 9240
+  - hostname: mediactive-network.net
+    ports:
+      start: 80
+      end: 80
+    protocols:
+      - tcp
+  - hostname: speedtest.ftp.otenet.gr
+    ports:
+      start: 80
+      end: 80
+    protocols:
+      - tcp
+  - hostname: rbx.proof.ovh.net
+    ports:
+      start: 5201
+      end: 5210
+  - hostname: vin.proof.ovh.net
+    ports:
+      start: 5201
+      end: 5210
+  - hostname: sbg.proof.ovh.net
+    ports:
+      start: 5201
+      end: 5210
+  - hostname: hil.proof.ovh.net
+    ports:
+      start: 5201
+      end: 5210
+  - hostname: gra.proof.ovh.net
+    ports:
+      start: 5201
+      end: 5210
+  - hostname: bhs.proof.ovh.net
+    ports:
+      start: 5201
+      end: 5210
+  - hostname: ping.online.net
+    ports:
+      start: 5200
+      end: 5209
+  - hostname: ping-ams1.online.net
+    ports:
+      start: 5200
+      end: 5209
+  - hostname: speedtest.lu.buyvm.net
+  - hostname: speedtest.novoserve.com
+  - hostname: speedtest.serverius.net
+    ports:
+      start: 5002
+      end: 5002
+  - hostname: speedtest-nl-oum.hybula.net
+  - hostname: iperf.worldstream.nl
+  - hostname: speedtest.yisp.nl
+  - hostname: ams.speedtest.clouvider.net
+    ports:
+      start: 5200
+      end: 5209
+  - hostname: lg.terrahost.com
+    ports:
+      start: 9200
+      end: 9200
+  - hostname: lon.speedtest.clouvider.net
+    ports:
+      start: 5200
+      end: 5209
+  - hostname: iperf.as42831.net
+    ports:
+      start: 5300
+      end: 5400
+  - hostname: la.speedtest.clouvider.net
+    ports:
+      start: 5200
+      end: 5209
+  - hostname: atl.speedtest.clouvider.net
+    ports:
+      start: 5200
+      end: 5209
+  - hostname: nyc.speedtest.clouvider.net
+    ports:
+      start: 5200
+      end: 5209
+  - hostname: dal.speedtest.clouvider.net
+    ports:
+      start: 5200
+      end: 5209
+  - hostname: ash.speedtest.clouvider.net
+    ports:
+      start: 5200
+      end: 5209
+  - hostname: speedtest.lv.buyvm.net
+  - hostname: speedtest.iveloz.net.br
+    ports:
+      start: 5201
+      end: 5209
+  - hostname: iperf.biznetnetworks.com
+    ports:
+      start: 5201
+      end: 5203
+  - hostname: working-domain.com
+    ports:
+      start: 6000
+      end: 6666
+    ip_versions:
+      - v6
+      - v4
+    protocols:
+      - tcp
+      - tcp

@@ -4,6 +4,9 @@ import validators
 data = yaml.safe_load(open("data/source.yaml"))
 servers = data["servers"]
 
+assert len(servers) > 0
+assert len(data) == 1
+
 # assert hostnames are unique
 assert len(set(server["hostname"] for server in servers)) == len(servers)
 

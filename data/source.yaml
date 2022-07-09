@@ -189,13 +189,3 @@ servers:
     ports:
       start: 5201
       end: 5203
-  - hostname: working-domain.com
-    ports:
-      start: 6000
-      end: 6666
-    ip_versions:
-      - v6
-      - v4
-    protocols:
-      - tcp
-      - tcp

@@ -148,6 +148,10 @@ servers:
     ports:
       start: 5200
       end: 5209
+  - hostname: man.speedtest.clouvider.net
+    ports:
+      start: 5200
+      end: 5209
   - hostname: lg.terrahost.com
     ports:
       start: 9200
@@ -177,6 +181,10 @@ servers:
       start: 5200
       end: 5209
   - hostname: ash.speedtest.clouvider.net
+    ports:
+      start: 5200
+      end: 5209
+  - hostname: phx.speedtest.clouvider.net
     ports:
       start: 5200
       end: 5209

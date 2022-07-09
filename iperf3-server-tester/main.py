@@ -1,30 +1,19 @@
-import iperf3
-import json
 import yaml
-import toml
-import csv
 
+from .generate_data_files import generate_csv_file, generate_json_file, generate_yaml_file, generate_toml_file
+from .server_tester import test_servers
+
+default_server_values = {"ports": {"start": 5201, "end": 5201}, "protocols": ["tcp"], "ip_versions": ["v4"]}
 
 data = yaml.safe_load(open("data/source.yaml"))
 
 data["servers"] = sorted(
-    [i for i in data["servers"] if i["hostname"] != "defaults.example"],
+    [default_server_values | i for i in data["servers"] if i["hostname"] != "defaults.example"],
     key=lambda x: x["hostname"],
 )
 
-yaml.dump(data, open("data/servers.yaml", "w"))
-json.dump(data, open("data/servers.json", "w"), indent=2)
-toml.dump(data, open("data/servers.toml", "w"))
-csv.writer(open("data/servers.csv", "w")).writerows(data["servers"])
 
-"""
-client = iperf3.Client()
-client.duration = 2
-client.server_hostname = "la.speedtest.clouvider.net"
-client.port = 5201
-client.zerocopy = True
-client.protocol = "tcp"
-client.verbose = True
-results: iperf3.TestResult = client.run()
-print(results)
-"""
+generate_csv_file(data)
+generate_json_file(data)
+generate_yaml_file(data)
+generate_toml_file(data)

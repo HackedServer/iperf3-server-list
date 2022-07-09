@@ -1,189 +1,433 @@
 servers:
 - hostname: aix-marseille.testdebit.info
+  ip_versions:
+  - v4
   ports:
     end: 9240
     start: 9200
+  protocols:
+  - tcp
 - hostname: ams.speedtest.clouvider.net
+  ip_versions:
+  - v4
   ports:
     end: 5209
     start: 5200
+  protocols:
+  - tcp
 - hostname: appliwave.testdebit.info
+  ip_versions:
+  - v4
   ports:
     end: 9240
     start: 9200
+  protocols:
+  - tcp
 - hostname: ash.speedtest.clouvider.net
+  ip_versions:
+  - v4
   ports:
     end: 5209
     start: 5200
+  protocols:
+  - tcp
 - hostname: atl.speedtest.clouvider.net
+  ip_versions:
+  - v4
   ports:
     end: 5209
     start: 5200
+  protocols:
+  - tcp
 - hostname: bhs.proof.ovh.net
+  ip_versions:
+  - v4
   ports:
     end: 5210
     start: 5201
+  protocols:
+  - tcp
 - hostname: bordeaux.testdebit.info
+  ip_versions:
+  - v4
   ports:
     end: 9240
     start: 9200
+  protocols:
+  - tcp
 - hostname: bouygues.testdebit.info
+  ip_versions:
+  - v4
   ports:
     end: 9240
     start: 9200
+  protocols:
+  - tcp
 - hostname: dal.speedtest.clouvider.net
+  ip_versions:
+  - v4
   ports:
     end: 5209
     start: 5200
+  protocols:
+  - tcp
 - hostname: ffm-01-ovpn.vpn.eseven.net
+  ip_versions:
+  - v4
   ports:
     end: 9210
     start: 9210
+  protocols:
+  - tcp
 - hostname: fra.speedtest.clouvider.net
-- hostname: gra.proof.ovh.net
-  ports:
-    end: 5210
-    start: 5201
-- hostname: hil.proof.ovh.net
-  ports:
-    end: 5210
-    start: 5201
-- hostname: ikoula.testdebit.info
-  ports:
-    end: 9240
-    start: 9200
-- hostname: iperf.as42831.net
-  ports:
-    end: 5400
-    start: 5300
-- hostname: iperf.biznetnetworks.com
-  ports:
-    end: 5203
-    start: 5201
-- hostname: iperf.deic.dk
-- hostname: iperf.online.net
-- hostname: iperf.par2.as49434.net
-  ports:
-    end: 9210
-    start: 9210
-- hostname: iperf.quickline.ch
-- hostname: iperf.worldstream.nl
-- hostname: iperf3.privatelayer.com
+  ip_versions:
+  - v4
   ports:
     end: 5201
     start: 5201
-- hostname: k-net.testdebit.info
+  protocols:
+  - tcp
+- hostname: gra.proof.ovh.net
+  ip_versions:
+  - v4
+  ports:
+    end: 5210
+    start: 5201
+  protocols:
+  - tcp
+- hostname: hil.proof.ovh.net
+  ip_versions:
+  - v4
+  ports:
+    end: 5210
+    start: 5201
+  protocols:
+  - tcp
+- hostname: ikoula.testdebit.info
+  ip_versions:
+  - v4
   ports:
     end: 9240
     start: 9200
+  protocols:
+  - tcp
+- hostname: iperf.as42831.net
+  ip_versions:
+  - v4
+  ports:
+    end: 5400
+    start: 5300
+  protocols:
+  - tcp
+- hostname: iperf.biznetnetworks.com
+  ip_versions:
+  - v4
+  ports:
+    end: 5203
+    start: 5201
+  protocols:
+  - tcp
+- hostname: iperf.deic.dk
+  ip_versions:
+  - v4
+  ports:
+    end: 5201
+    start: 5201
+  protocols:
+  - tcp
+- hostname: iperf.online.net
+  ip_versions:
+  - v4
+  ports:
+    end: 5201
+    start: 5201
+  protocols:
+  - tcp
+- hostname: iperf.par2.as49434.net
+  ip_versions:
+  - v4
+  ports:
+    end: 9210
+    start: 9210
+  protocols:
+  - tcp
+- hostname: iperf.quickline.ch
+  ip_versions:
+  - v4
+  ports:
+    end: 5201
+    start: 5201
+  protocols:
+  - tcp
+- hostname: iperf.worldstream.nl
+  ip_versions:
+  - v4
+  ports:
+    end: 5201
+    start: 5201
+  protocols:
+  - tcp
+- hostname: iperf3.privatelayer.com
+  ip_versions:
+  - v4
+  ports:
+    end: 5201
+    start: 5201
+  protocols:
+  - tcp
+- hostname: k-net.testdebit.info
+  ip_versions:
+  - v4
+  ports:
+    end: 9240
+    start: 9200
+  protocols:
+  - tcp
 - hostname: la.speedtest.clouvider.net
+  ip_versions:
+  - v4
   ports:
     end: 5209
     start: 5200
+  protocols:
+  - tcp
 - hostname: lg.ip-projects.de
+  ip_versions:
+  - v4
+  ports:
+    end: 5201
+    start: 5201
+  protocols:
+  - tcp
 - hostname: lg.terrahost.com
+  ip_versions:
+  - v4
   ports:
     end: 9200
     start: 9200
+  protocols:
+  - tcp
 - hostname: lg.vie.alwyzon.net
+  ip_versions:
+  - v4
+  ports:
+    end: 5201
+    start: 5201
+  protocols:
+  - tcp
 - hostname: lille.testdebit.info
+  ip_versions:
+  - v4
   ports:
     end: 9240
     start: 9200
+  protocols:
+  - tcp
 - hostname: lon.speedtest.clouvider.net
+  ip_versions:
+  - v4
   ports:
     end: 5209
     start: 5200
+  protocols:
+  - tcp
 - hostname: lyon.testdebit.info
+  ip_versions:
+  - v4
   ports:
     end: 9240
     start: 9200
+  protocols:
+  - tcp
+- hostname: man.speedtest.clouvider.net
+  ip_versions:
+  - v4
+  ports:
+    end: 5209
+    start: 5200
+  protocols:
+  - tcp
 - hostname: mediactive-network.net
+  ip_versions:
+  - v4
   ports:
     end: 80
     start: 80
   protocols:
   - tcp
 - hostname: montreal.planethoster.testdebit.info
+  ip_versions:
+  - v4
   ports:
     end: 9240
     start: 9200
+  protocols:
+  - tcp
 - hostname: nyc.speedtest.clouvider.net
+  ip_versions:
+  - v4
   ports:
     end: 5209
     start: 5200
+  protocols:
+  - tcp
 - hostname: paris.planethoster.testdebit.info
+  ip_versions:
+  - v4
   ports:
     end: 9240
     start: 9200
+  protocols:
+  - tcp
 - hostname: paris.testdebit.info
+  ip_versions:
+  - v4
   ports:
     end: 9240
     start: 9200
+  protocols:
+  - tcp
+- hostname: phx.speedtest.clouvider.net
+  ip_versions:
+  - v4
+  ports:
+    end: 5209
+    start: 5200
+  protocols:
+  - tcp
 - hostname: ping-ams1.online.net
+  ip_versions:
+  - v4
   ports:
     end: 5209
     start: 5200
+  protocols:
+  - tcp
 - hostname: ping.online.net
+  ip_versions:
+  - v4
   ports:
     end: 5209
     start: 5200
+  protocols:
+  - tcp
 - hostname: rbx.proof.ovh.net
+  ip_versions:
+  - v4
   ports:
     end: 5210
     start: 5201
+  protocols:
+  - tcp
 - hostname: sbg.proof.ovh.net
+  ip_versions:
+  - v4
   ports:
     end: 5210
     start: 5201
+  protocols:
+  - tcp
 - hostname: scaleway.testdebit.info
+  ip_versions:
+  - v4
   ports:
     end: 9240
     start: 9200
+  protocols:
+  - tcp
 - hostname: speedtest-nl-oum.hybula.net
+  ip_versions:
+  - v4
+  ports:
+    end: 5201
+    start: 5201
+  protocols:
+  - tcp
 - hostname: speedtest.ftp.otenet.gr
+  ip_versions:
+  - v4
   ports:
     end: 80
     start: 80
   protocols:
   - tcp
 - hostname: speedtest.iveloz.net.br
+  ip_versions:
+  - v4
   ports:
     end: 5209
     start: 5201
+  protocols:
+  - tcp
 - hostname: speedtest.lu.buyvm.net
+  ip_versions:
+  - v4
+  ports:
+    end: 5201
+    start: 5201
+  protocols:
+  - tcp
 - hostname: speedtest.lv.buyvm.net
+  ip_versions:
+  - v4
+  ports:
+    end: 5201
+    start: 5201
+  protocols:
+  - tcp
 - hostname: speedtest.novoserve.com
+  ip_versions:
+  - v4
+  ports:
+    end: 5201
+    start: 5201
+  protocols:
+  - tcp
 - hostname: speedtest.serverius.net
+  ip_versions:
+  - v4
   ports:
     end: 5002
     start: 5002
+  protocols:
+  - tcp
 - hostname: speedtest.shinternet.ch
+  ip_versions:
+  - v4
   ports:
     end: 5204
     start: 5204
+  protocols:
+  - tcp
 - hostname: speedtest.wtnet.de
+  ip_versions:
+  - v4
   ports:
     end: 5209
     start: 5200
+  protocols:
+  - tcp
 - hostname: speedtest.yisp.nl
+  ip_versions:
+  - v4
+  ports:
+    end: 5201
+    start: 5201
+  protocols:
+  - tcp
 - hostname: test-debit.free.fr
+  ip_versions:
+  - v4
   ports:
     end: 80
     start: 80
   protocols:
   - tcp
 - hostname: vin.proof.ovh.net
+  ip_versions:
+  - v4
   ports:
     end: 5210
     start: 5201
-- hostname: working-domain.com
-  ip_versions:
-  - v6
-  - v4
-  ports:
-    end: 6666
-    start: 6000
   protocols:
-  - tcp
   - tcp

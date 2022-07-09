@@ -1,287 +1,432 @@
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "aix-marseille.testdebit.info"
 
 [servers.ports]
 start = 9200
 end = 9240
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "ams.speedtest.clouvider.net"
 
 [servers.ports]
 start = 5200
 end = 5209
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "appliwave.testdebit.info"
 
 [servers.ports]
 start = 9200
 end = 9240
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "ash.speedtest.clouvider.net"
 
 [servers.ports]
 start = 5200
 end = 5209
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "atl.speedtest.clouvider.net"
 
 [servers.ports]
 start = 5200
 end = 5209
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "bhs.proof.ovh.net"
 
 [servers.ports]
 start = 5201
 end = 5210
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "bordeaux.testdebit.info"
 
 [servers.ports]
 start = 9200
 end = 9240
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "bouygues.testdebit.info"
 
 [servers.ports]
 start = 9200
 end = 9240
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "dal.speedtest.clouvider.net"
 
 [servers.ports]
 start = 5200
 end = 5209
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "ffm-01-ovpn.vpn.eseven.net"
 
 [servers.ports]
 start = 9210
 end = 9210
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "fra.speedtest.clouvider.net"
 
+[servers.ports]
+start = 5201
+end = 5201
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "gra.proof.ovh.net"
 
 [servers.ports]
 start = 5201
 end = 5210
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "hil.proof.ovh.net"
 
 [servers.ports]
 start = 5201
 end = 5210
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "ikoula.testdebit.info"
 
 [servers.ports]
 start = 9200
 end = 9240
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "iperf.as42831.net"
 
 [servers.ports]
 start = 5300
 end = 5400
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "iperf.biznetnetworks.com"
 
 [servers.ports]
 start = 5201
 end = 5203
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "iperf.deic.dk"
 
+[servers.ports]
+start = 5201
+end = 5201
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "iperf.online.net"
 
+[servers.ports]
+start = 5201
+end = 5201
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "iperf.par2.as49434.net"
 
 [servers.ports]
 start = 9210
 end = 9210
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "iperf.quickline.ch"
 
+[servers.ports]
+start = 5201
+end = 5201
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "iperf.worldstream.nl"
 
+[servers.ports]
+start = 5201
+end = 5201
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "iperf3.privatelayer.com"
 
 [servers.ports]
 start = 5201
 end = 5201
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "k-net.testdebit.info"
 
 [servers.ports]
 start = 9200
 end = 9240
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "la.speedtest.clouvider.net"
 
 [servers.ports]
 start = 5200
 end = 5209
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "lg.ip-projects.de"
 
+[servers.ports]
+start = 5201
+end = 5201
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "lg.terrahost.com"
 
 [servers.ports]
 start = 9200
 end = 9200
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "lg.vie.alwyzon.net"
 
+[servers.ports]
+start = 5201
+end = 5201
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "lille.testdebit.info"
 
 [servers.ports]
 start = 9200
 end = 9240
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "lon.speedtest.clouvider.net"
 
 [servers.ports]
 start = 5200
 end = 5209
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "lyon.testdebit.info"
 
 [servers.ports]
 start = 9200
 end = 9240
 [[servers]]
-hostname = "mediactive-network.net"
 protocols = [ "tcp",]
+ip_versions = [ "v4",]
+hostname = "man.speedtest.clouvider.net"
+
+[servers.ports]
+start = 5200
+end = 5209
+[[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
+hostname = "mediactive-network.net"
 
 [servers.ports]
 start = 80
 end = 80
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "montreal.planethoster.testdebit.info"
 
 [servers.ports]
 start = 9200
 end = 9240
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "nyc.speedtest.clouvider.net"
 
 [servers.ports]
 start = 5200
 end = 5209
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "paris.planethoster.testdebit.info"
 
 [servers.ports]
 start = 9200
 end = 9240
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "paris.testdebit.info"
 
 [servers.ports]
 start = 9200
 end = 9240
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
+hostname = "phx.speedtest.clouvider.net"
+
+[servers.ports]
+start = 5200
+end = 5209
+[[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "ping-ams1.online.net"
 
 [servers.ports]
 start = 5200
 end = 5209
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "ping.online.net"
 
 [servers.ports]
 start = 5200
 end = 5209
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "rbx.proof.ovh.net"
 
 [servers.ports]
 start = 5201
 end = 5210
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "sbg.proof.ovh.net"
 
 [servers.ports]
 start = 5201
 end = 5210
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "scaleway.testdebit.info"
 
 [servers.ports]
 start = 9200
 end = 9240
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "speedtest-nl-oum.hybula.net"
 
+[servers.ports]
+start = 5201
+end = 5201
 [[servers]]
-hostname = "speedtest.ftp.otenet.gr"
 protocols = [ "tcp",]
+ip_versions = [ "v4",]
+hostname = "speedtest.ftp.otenet.gr"
 
 [servers.ports]
 start = 80
 end = 80
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "speedtest.iveloz.net.br"
 
 [servers.ports]
 start = 5201
 end = 5209
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "speedtest.lu.buyvm.net"
 
+[servers.ports]
+start = 5201
+end = 5201
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "speedtest.lv.buyvm.net"
 
+[servers.ports]
+start = 5201
+end = 5201
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "speedtest.novoserve.com"
 
+[servers.ports]
+start = 5201
+end = 5201
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "speedtest.serverius.net"
 
 [servers.ports]
 start = 5002
 end = 5002
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "speedtest.shinternet.ch"
 
 [servers.ports]
 start = 5204
 end = 5204
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "speedtest.wtnet.de"
 
 [servers.ports]
 start = 5200
 end = 5209
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "speedtest.yisp.nl"
 
+[servers.ports]
+start = 5201
+end = 5201
 [[servers]]
-hostname = "test-debit.free.fr"
 protocols = [ "tcp",]
+ip_versions = [ "v4",]
+hostname = "test-debit.free.fr"
 
 [servers.ports]
 start = 80
 end = 80
 [[servers]]
+protocols = [ "tcp",]
+ip_versions = [ "v4",]
 hostname = "vin.proof.ovh.net"
 
 [servers.ports]
 start = 5201
 end = 5210
-[[servers]]
-hostname = "working-domain.com"
-ip_versions = [ "v6", "v4",]
-protocols = [ "tcp", "tcp",]
-
-[servers.ports]
-start = 6000
-end = 6666

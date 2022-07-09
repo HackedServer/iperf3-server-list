@@ -1,344 +1,706 @@
 {
   "servers": [
     {
-      "hostname": "aix-marseille.testdebit.info",
       "ports": {
         "start": 9200,
         "end": 9240
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "aix-marseille.testdebit.info"
     },
     {
-      "hostname": "ams.speedtest.clouvider.net",
       "ports": {
         "start": 5200,
         "end": 5209
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "ams.speedtest.clouvider.net"
     },
     {
-      "hostname": "appliwave.testdebit.info",
       "ports": {
         "start": 9200,
         "end": 9240
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "appliwave.testdebit.info"
     },
     {
-      "hostname": "ash.speedtest.clouvider.net",
       "ports": {
         "start": 5200,
         "end": 5209
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "ash.speedtest.clouvider.net"
     },
     {
-      "hostname": "atl.speedtest.clouvider.net",
       "ports": {
         "start": 5200,
         "end": 5209
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "atl.speedtest.clouvider.net"
     },
     {
-      "hostname": "bhs.proof.ovh.net",
       "ports": {
         "start": 5201,
         "end": 5210
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "bhs.proof.ovh.net"
     },
     {
-      "hostname": "bordeaux.testdebit.info",
       "ports": {
         "start": 9200,
         "end": 9240
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "bordeaux.testdebit.info"
     },
     {
-      "hostname": "bouygues.testdebit.info",
       "ports": {
         "start": 9200,
         "end": 9240
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "bouygues.testdebit.info"
     },
     {
-      "hostname": "dal.speedtest.clouvider.net",
       "ports": {
         "start": 5200,
         "end": 5209
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "dal.speedtest.clouvider.net"
     },
     {
-      "hostname": "ffm-01-ovpn.vpn.eseven.net",
       "ports": {
         "start": 9210,
         "end": 9210
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "ffm-01-ovpn.vpn.eseven.net"
     },
     {
-      "hostname": "fra.speedtest.clouvider.net"
-    },
-    {
-      "hostname": "gra.proof.ovh.net",
-      "ports": {
-        "start": 5201,
-        "end": 5210
-      }
-    },
-    {
-      "hostname": "hil.proof.ovh.net",
-      "ports": {
-        "start": 5201,
-        "end": 5210
-      }
-    },
-    {
-      "hostname": "ikoula.testdebit.info",
-      "ports": {
-        "start": 9200,
-        "end": 9240
-      }
-    },
-    {
-      "hostname": "iperf.as42831.net",
-      "ports": {
-        "start": 5300,
-        "end": 5400
-      }
-    },
-    {
-      "hostname": "iperf.biznetnetworks.com",
-      "ports": {
-        "start": 5201,
-        "end": 5203
-      }
-    },
-    {
-      "hostname": "iperf.deic.dk"
-    },
-    {
-      "hostname": "iperf.online.net"
-    },
-    {
-      "hostname": "iperf.par2.as49434.net",
-      "ports": {
-        "start": 9210,
-        "end": 9210
-      }
-    },
-    {
-      "hostname": "iperf.quickline.ch"
-    },
-    {
-      "hostname": "iperf.worldstream.nl"
-    },
-    {
-      "hostname": "iperf3.privatelayer.com",
       "ports": {
         "start": 5201,
         "end": 5201
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "fra.speedtest.clouvider.net"
     },
     {
-      "hostname": "k-net.testdebit.info",
+      "ports": {
+        "start": 5201,
+        "end": 5210
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "gra.proof.ovh.net"
+    },
+    {
+      "ports": {
+        "start": 5201,
+        "end": 5210
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "hil.proof.ovh.net"
+    },
+    {
       "ports": {
         "start": 9200,
         "end": 9240
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "ikoula.testdebit.info"
     },
     {
-      "hostname": "la.speedtest.clouvider.net",
+      "ports": {
+        "start": 5300,
+        "end": 5400
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "iperf.as42831.net"
+    },
+    {
+      "ports": {
+        "start": 5201,
+        "end": 5203
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "iperf.biznetnetworks.com"
+    },
+    {
+      "ports": {
+        "start": 5201,
+        "end": 5201
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "iperf.deic.dk"
+    },
+    {
+      "ports": {
+        "start": 5201,
+        "end": 5201
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "iperf.online.net"
+    },
+    {
+      "ports": {
+        "start": 9210,
+        "end": 9210
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "iperf.par2.as49434.net"
+    },
+    {
+      "ports": {
+        "start": 5201,
+        "end": 5201
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "iperf.quickline.ch"
+    },
+    {
+      "ports": {
+        "start": 5201,
+        "end": 5201
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "iperf.worldstream.nl"
+    },
+    {
+      "ports": {
+        "start": 5201,
+        "end": 5201
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "iperf3.privatelayer.com"
+    },
+    {
+      "ports": {
+        "start": 9200,
+        "end": 9240
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "k-net.testdebit.info"
+    },
+    {
       "ports": {
         "start": 5200,
         "end": 5209
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "la.speedtest.clouvider.net"
     },
     {
+      "ports": {
+        "start": 5201,
+        "end": 5201
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
       "hostname": "lg.ip-projects.de"
     },
     {
-      "hostname": "lg.terrahost.com",
       "ports": {
         "start": 9200,
         "end": 9200
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "lg.terrahost.com"
     },
     {
+      "ports": {
+        "start": 5201,
+        "end": 5201
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
       "hostname": "lg.vie.alwyzon.net"
     },
     {
-      "hostname": "lille.testdebit.info",
       "ports": {
         "start": 9200,
         "end": 9240
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "lille.testdebit.info"
     },
     {
-      "hostname": "lon.speedtest.clouvider.net",
       "ports": {
         "start": 5200,
         "end": 5209
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "lon.speedtest.clouvider.net"
     },
     {
-      "hostname": "lyon.testdebit.info",
       "ports": {
         "start": 9200,
         "end": 9240
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "lyon.testdebit.info"
     },
     {
-      "hostname": "mediactive-network.net",
+      "ports": {
+        "start": 5200,
+        "end": 5209
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "man.speedtest.clouvider.net"
+    },
+    {
       "ports": {
         "start": 80,
         "end": 80
       },
       "protocols": [
         "tcp"
-      ]
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "mediactive-network.net"
     },
     {
-      "hostname": "montreal.planethoster.testdebit.info",
       "ports": {
         "start": 9200,
         "end": 9240
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "montreal.planethoster.testdebit.info"
     },
     {
-      "hostname": "nyc.speedtest.clouvider.net",
       "ports": {
         "start": 5200,
         "end": 5209
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "nyc.speedtest.clouvider.net"
     },
     {
-      "hostname": "paris.planethoster.testdebit.info",
       "ports": {
         "start": 9200,
         "end": 9240
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "paris.planethoster.testdebit.info"
     },
     {
-      "hostname": "paris.testdebit.info",
       "ports": {
         "start": 9200,
         "end": 9240
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "paris.testdebit.info"
     },
     {
-      "hostname": "ping-ams1.online.net",
       "ports": {
         "start": 5200,
         "end": 5209
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "phx.speedtest.clouvider.net"
     },
     {
-      "hostname": "ping.online.net",
       "ports": {
         "start": 5200,
         "end": 5209
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "ping-ams1.online.net"
     },
     {
-      "hostname": "rbx.proof.ovh.net",
+      "ports": {
+        "start": 5200,
+        "end": 5209
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "ping.online.net"
+    },
+    {
       "ports": {
         "start": 5201,
         "end": 5210
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "rbx.proof.ovh.net"
     },
     {
-      "hostname": "sbg.proof.ovh.net",
       "ports": {
         "start": 5201,
         "end": 5210
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "sbg.proof.ovh.net"
     },
     {
-      "hostname": "scaleway.testdebit.info",
       "ports": {
         "start": 9200,
         "end": 9240
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "scaleway.testdebit.info"
     },
     {
+      "ports": {
+        "start": 5201,
+        "end": 5201
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
       "hostname": "speedtest-nl-oum.hybula.net"
     },
     {
-      "hostname": "speedtest.ftp.otenet.gr",
       "ports": {
         "start": 80,
         "end": 80
       },
       "protocols": [
         "tcp"
-      ]
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "speedtest.ftp.otenet.gr"
     },
     {
-      "hostname": "speedtest.iveloz.net.br",
       "ports": {
         "start": 5201,
         "end": 5209
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "speedtest.iveloz.net.br"
     },
     {
+      "ports": {
+        "start": 5201,
+        "end": 5201
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
       "hostname": "speedtest.lu.buyvm.net"
     },
     {
+      "ports": {
+        "start": 5201,
+        "end": 5201
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
       "hostname": "speedtest.lv.buyvm.net"
     },
     {
+      "ports": {
+        "start": 5201,
+        "end": 5201
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
       "hostname": "speedtest.novoserve.com"
     },
     {
-      "hostname": "speedtest.serverius.net",
       "ports": {
         "start": 5002,
         "end": 5002
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "speedtest.serverius.net"
     },
     {
-      "hostname": "speedtest.shinternet.ch",
       "ports": {
         "start": 5204,
         "end": 5204
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "speedtest.shinternet.ch"
     },
     {
-      "hostname": "speedtest.wtnet.de",
       "ports": {
         "start": 5200,
         "end": 5209
-      }
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "speedtest.wtnet.de"
     },
     {
+      "ports": {
+        "start": 5201,
+        "end": 5201
+      },
+      "protocols": [
+        "tcp"
+      ],
+      "ip_versions": [
+        "v4"
+      ],
       "hostname": "speedtest.yisp.nl"
     },
     {
-      "hostname": "test-debit.free.fr",
       "ports": {
         "start": 80,
         "end": 80
       },
       "protocols": [
         "tcp"
-      ]
+      ],
+      "ip_versions": [
+        "v4"
+      ],
+      "hostname": "test-debit.free.fr"
     },
     {
-      "hostname": "vin.proof.ovh.net",
       "ports": {
         "start": 5201,
         "end": 5210
-      }
-    },
-    {
-      "hostname": "working-domain.com",
-      "ports": {
-        "start": 6000,
-        "end": 6666
       },
+      "protocols": [
+        "tcp"
+      ],
       "ip_versions": [
-        "v6",
         "v4"
       ],
-      "protocols": [
-        "tcp",
-        "tcp"
-      ]
+      "hostname": "vin.proof.ovh.net"
     }
   ]
 }
